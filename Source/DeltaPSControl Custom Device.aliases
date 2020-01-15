@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "172.24.200.241"
+
+[NI-PXIe-8880-030A11B0]
+NI-PXIe-8880-030A11B0 = "10.116.1.14"
+
+[RT PXI Target]
+RT PXI Target = "0.0.0.0"
+
