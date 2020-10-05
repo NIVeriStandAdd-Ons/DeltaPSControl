@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "172.18.128.1"
+My Computer = "10.116.1.37"
 
 [NI-PXIe-8880-030A11B0]
 NI-PXIe-8880-030A11B0 = "10.116.1.14"
