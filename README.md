@@ -1,4 +1,4 @@
-### DeltaPSControl Custom Device ###
+### Delta-Elektronika SM3300 SERIES control Custom Device ###
 The CD provides the control for Delta Power Supply by using SCPI commands
 
 ### LabVIEW Version ###
