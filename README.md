@@ -13,3 +13,9 @@ Build available for Windows and RT Linux
 
 Labview 2019
 NI Veristand 2019
+
+
+### URLs ###
+
+https://www.delta-elektronika.nl/en/products/dc-power-supplies-3300w-sm3300-series.html
+https://www.delta-elektronika.nl/upload/MANUAL_ETHERNET_AND_SEQUENCER_PROGRAMMING_SM3300_P0157_V201908.pdf
